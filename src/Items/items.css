@@ -1,0 +1,50 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rebeccapurple;
+    width: 800px;
+    height: 140px;
+}
+.thumbnail {
+    border: 2px solid rebeccapurple;
+    height: 140px;
+    width: 120px;
+}
+.details {
+    width: 680px;
+    height: 140px;
+}
+.thumbnailWidth {
+    width: 118px;
+    height: 138px;
+}
+.nameWidth {
+    width: 670px;
+    height: 10px;
+}
+.genderNationality {
+    display: flex;
+    flex-direction: row;
+    width: 678px;
+}
+.contactDetails {
+    display: flex;
+    flex-direction: row;
+    width: 678px;
+}
+.gender {
+    width: 250px;
+    height: 10px;
+}
+.contact {
+    width: 250px;
+    height: 10px;
+}
+.nation {
+    width: 428px;
+    height: 10px;
+}
+.mail {
+    width: 428px;
+    height: 10px;
+}
